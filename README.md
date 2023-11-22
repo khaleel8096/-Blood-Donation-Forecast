@@ -15,8 +15,7 @@ The primary objective of this project is to develop a machine learning model tha
 
 3. **Saving Lives:** Timely and accurate predictions can contribute to saving lives by ensuring that an adequate supply of blood is available for patients in need of transfusions and medical treatments.
 
-### Dataset:
-The dataset used in this project is collected from the donor database of a Blood Transfusion Service Center. It includes information about donors, such as donation history, demographics, and potentially relevant factors. The dataset will serve as the basis for training and evaluating the machine learning model.
+
 
 ### Project Tasks:
 1. **Data Inspection:** Explore and understand the structure of the dataset, identifying relevant features and potential patterns.
